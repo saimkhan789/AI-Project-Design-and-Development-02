@@ -1,4 +1,4 @@
-"""Interface skeletons for the attendance pipeline (Lab 02, Task 4)."""
+
 from dataclasses import dataclass
 from typing import Iterator, List, Optional, Tuple
 import numpy as np

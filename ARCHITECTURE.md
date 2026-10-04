@@ -1,7 +1,5 @@
 # System Design Specification: Smart Attendance System
 
-**Course:** AI-316, Lab 02
-
 ## 1. Overview
 
 An edge-based system that detects and recognises faces from a classroom camera and logs attendance automatically, syncing to a central database when the network allows.
